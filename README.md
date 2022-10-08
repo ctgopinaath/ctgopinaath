@@ -1,11 +1,11 @@
 
-<h2> Hello, I'm Gopinaath C!</h2>
+<h2> Hi, I'm Gopinaath C!</h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>DevOps Engineer 
 </br>
 </em>
 </p>
-<h2>An IT professional with experience in Cloud architecture, DevOps automation and the deployments over IT infrastructure and cloud. Recognized consistently for performance excellence and contributions to success in my assignments.</h2>
+<h4>An IT professional with experience in Cloud architecture, DevOps automation and the deployments over IT infrastructure and cloud. Recognized consistently for performance excellence and contributions to success in my assignments.</h4>
 ### Skill set:
 <img align="left" alt="AWS" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Git" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
