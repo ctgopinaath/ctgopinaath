@@ -22,6 +22,8 @@
 
 [<img align="left" alt="codeSTACKr | Credly" width="22px" src="https://images.credly.com/size/680x680/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png
 " />][credly]
+<a href="https://www.credly.com/users/ctgopinaath/badges/"><img align="left" alt="CI / CD" width="66px" src="https://images.credly.com/size/680x680/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" />
+</a>
 
 
 ### Follow me:
@@ -30,5 +32,5 @@
 
 [twitter]:https://www.twitter.com/ctgopinaath/
 [linkedin]: https://www.linkedin.com/in/ctgopinaath/
-[credly]: https://www.credly.com/users/ctgopinaath/badges
+[credly]: 
 
