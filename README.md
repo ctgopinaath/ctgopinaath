@@ -36,5 +36,3 @@
 
 [twitter]:https://www.twitter.com/ctgopinaath/
 [linkedin]: https://www.linkedin.com/in/ctgopinaath/
-[credly]: 
-
