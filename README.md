@@ -1,6 +1,6 @@
 
 <h2> Gopinaath C</h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://avatars.githubusercontent.com/u/94010804?v=4" width="230">
 <p><em>DevOps Engineer 
 </br>
 </em>
