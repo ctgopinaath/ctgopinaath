@@ -6,7 +6,8 @@
 </em>
 </p>
 <h4>An IT professional with experience in Cloud architecture, DevOps automation and the deployments over IT infrastructure and cloud. Recognized consistently for performance excellence and contributions to success in my assignments.</h4>
-### Skill set:
+
+### Techincal Skill set:
 <img align="left" alt="AWS" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Git" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Docker" width="66px" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" />
@@ -17,9 +18,17 @@
 <br />
 <br />
 
+### Technical Certifications:
+
+[<img align="left" alt="codeSTACKr | Credly" width="22px" src="https://images.credly.com/size/680x680/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png
+" />][credly]
+
+
 ### Follow me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [twitter]:https://www.twitter.com/ctgopinaath/
 [linkedin]: https://www.linkedin.com/in/ctgopinaath/
+[credly]: https://www.credly.com/users/ctgopinaath/badges
+
