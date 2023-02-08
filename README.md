@@ -1,4 +1,4 @@
-
+<body bgcolor="white" text="Blue">
 <h2> Gopinaath C</h2>
 <p><em>DevOps Engineer 
 </br>
@@ -35,3 +35,4 @@
 
 [twitter]:https://www.twitter.com/ctgopinaath/
 [linkedin]: https://www.linkedin.com/in/ctgopinaath/
+</body>
