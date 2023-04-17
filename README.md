@@ -8,7 +8,6 @@
 ### Techincal Skill set:
 <img align="left" alt="AWS" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Git" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-</br>
 <img align="left" alt="Docker" width="76px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F02%2FDocker-Symbol.png&f=1&nofb=1&ipt=0a54ce728a65912efd815ca0ef0f3aa21b3a4c091b9302fff4519d5cf670192f&ipo=images" />
 <img align="left" alt="Kubernetes" width="66px" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
 
