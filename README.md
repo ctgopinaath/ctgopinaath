@@ -1,4 +1,4 @@
-<h2> Gopinaath C</h2>
+<h2> Gopinaath CT</h2>
 <p><em>DevOps Engineer 
 </br>
 </em>
