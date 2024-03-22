@@ -6,7 +6,7 @@
 <h4>An IT professional with experience in Cloud architecture, DevOps automation and the deployments over IT infrastructure and cloud. Recognized consistently for performance excellence and contributions to success in my assignments.</h4>
 
 ### Techincal Skill set:
-<img align="left" alt="AWS" width="66px" src="https://mms.businesswire.com/media/20190430006195/en/719098/23/AWS_logo_new.jpg" />
+<img align="left" alt="AWS" width="66px" src="https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/062145e5-f851-40a9-9ad0e17ee14e040c/500x500_highestperformance__4a7c7e45a350/AWS-logo-HD.jpg" />
 <img align="left" alt="Git" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Docker" width="76px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F02%2FDocker-Symbol.png&f=1&nofb=1&ipt=0a54ce728a65912efd815ca0ef0f3aa21b3a4c091b9302fff4519d5cf670192f&ipo=images" />
 <img align="left" alt="Kubernetes" width="66px" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
