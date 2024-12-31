@@ -1,8 +1,8 @@
-# 👋 Hello, I'm **Gopinaath CT** - DevOps Consultant
+# 👋 Hello, I'm **Gopinaath CT** - Cloud and DevOps Consultant
 
 *Emphasizing Cloud Architecture, DevOps Automation, and Seamless Deployments*
 
-A seasoned IT professional specializing in Cloud architecture, DevOps automation, and seamless deployments across IT infrastructure and cloud environments. Renowned for consistently delivering exceptional performance and contributing significantly to organizational success in diverse assignments.
+An IT professional specializing in Cloud architecture, DevOps automation, and seamless deployments across IT infrastructure and cloud environments. Renowned for consistently delivering exceptional performance and contributing significantly to organizational success in diverse assignments.
 
 ## 💼 About Me
 
