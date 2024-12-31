@@ -43,10 +43,7 @@ An IT professional specializing in Cloud architecture, DevOps automation, and se
     <li>[ RHCSA ] Redhat Certified System Administrator (2016)</li>
 </ul>
 
-## 🌎 Connect with Me:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ctgopinaath)
-- 📧 [Email](mailto:ctgopinaath@outlook.com)
 
 ---
 
