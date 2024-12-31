@@ -1,6 +1,6 @@
-# 👋 Hello, I'm **Gopinaath CT** - Cloud and DevOps Consultant
+# 👋 Hello, I'm  **Gopinaath CT** - Cloud and DevOps Consultant 
 
-*Emphasizing Cloud Architecture, DevOps Automation, and Seamless Deployments*
+🧑‍💻 *Emphasizing Cloud Architecture, DevOps Automation, and Seamless Deployments*
 
 An IT professional specializing in Cloud architecture, DevOps automation, and seamless deployments across IT infrastructure and cloud environments. Renowned for consistently delivering exceptional performance and contributing significantly to organizational success in diverse assignments.
 
@@ -13,7 +13,7 @@ An IT professional specializing in Cloud architecture, DevOps automation, and se
 - 🛠️ Strong scripting skills 
 - 🔒 Focused on security practices, ensuring infrastructure is both scalable and secure.
 
-### Technical Skillset:
+## 🚀 Technical Skillset:
 <ul>
     <li><img alt="AWS" width="24px" src="https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/062145e5-f851-40a9-9ad0e17ee14e040c/500x500_highestperformance__4a7c7e45a350/AWS-logo-HD.jpg" /> AWS</li>
     <li><img alt="DevOps" width="24px" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" /> DevOps</li>
@@ -50,4 +50,3 @@ An IT professional specializing in Cloud architecture, DevOps automation, and se
 
 ---
 
-✨ Thank you for visiting my GitHub profile. Let's build something amazing together! ✨
