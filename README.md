@@ -34,14 +34,6 @@ An IT professional specializing in Cloud architecture, DevOps automation, and se
 <a href="https://www.credly.com/users/ctgopinaath/badges/">
     <img align="left" alt="Credly" width="66px" src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" />
 </a>
-<br>
-<br>
-<ul>
-    <li>[ DOP-C02 ] AWS Certified DevOps Engineer - Professional (2022)</li>
-    <li>[ AZ-900 ] Azure Fundamentals (2020)</li>
-    <li>[ SAA-CO1 ] AWS Certified Solution Architect (2018)</li>    
-    <li>[ RHCSA ] Redhat Certified System Administrator (2016)</li>
-</ul>
 
 
 
