@@ -36,6 +36,3 @@ An IT professional specializing in Cloud architecture, DevOps automation, and se
 </a>
 
 
-
----
-
