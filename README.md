@@ -16,6 +16,7 @@ An IT professional specializing in Cloud architecture, DevOps automation, and se
 ## 🚀 Technical Skillset:
 <ul>
     <li><img alt="AWS" width="24px" src="https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/062145e5-f851-40a9-9ad0e17ee14e040c/500x500_highestperformance__4a7c7e45a350/AWS-logo-HD.jpg" /> AWS</li>
+    <li><img alt="Azure" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" /> Azure</li>
     <li><img alt="DevOps" width="24px" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" /> DevOps</li>
     <li><img alt="Git" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> Git</li>
     <li><img alt="GitHub Actions" width="24px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" /> GitHub Actions</li>
