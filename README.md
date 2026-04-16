@@ -1,4 +1,4 @@
-# 👋 Hello, I'm  **Gopinaath CT** - Cloud and DevOps Consultant 
+# 👋 Hello, I'm  **Gopinaath CT** - Cloud and DevOps Solution Architect
 
 🧑‍💻 *Emphasizing Cloud Architecture, DevOps Automation, and Seamless Deployments*
 
